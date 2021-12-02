@@ -1,0 +1,17 @@
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.exe
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.deps.json
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.runtimeconfig.json
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.runtimeconfig.dev.json
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.dll
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\ref\Day1.1.dll
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\Day1.1.pdb
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.AssemblyInfoInputs.cache
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.AssemblyInfo.cs
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.csproj.CoreCompileInputs.cache
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.dll
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\ref\Day1.1.dll
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.pdb
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.genruntimeconfig.cache
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\Day1.1.csprojAssemblyReference.cache
+C:\Users\jkrantz\Workspace\Training\AdventOfCode\2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\net5.0\input.txt

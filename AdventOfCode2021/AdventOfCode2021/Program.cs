@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace AdventOfCode2021
 {
@@ -6,7 +7,21 @@ namespace AdventOfCode2021
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (StreamReader input = File.OpenText("./input.txt"))
+            {
+                int prevDepth = Int32.Parse(input.ReadLine());
+                int counter = 0;
+                while (!input.EndOfStream)
+                {
+                    var depth = Int32.Parse(input.ReadLine());
+                    if(depth > prevDepth)
+                    {
+                        counter++;
+                    }
+                    prevDepth = depth;
+                }
+                Console.WriteLine("Count: " + counter );
+            }
         }
     }
 }

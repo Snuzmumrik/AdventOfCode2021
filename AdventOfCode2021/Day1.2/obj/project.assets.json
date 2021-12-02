@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\AdventOfCode2021\\Day1.1.csproj",
-      "projectName": "Day1.1",
-      "projectPath": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\AdventOfCode2021\\Day1.1.csproj",
+      "projectUniqueName": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\Day1.2\\Day1.2.csproj",
+      "projectName": "Day1.2",
+      "projectPath": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\Day1.2\\Day1.2.csproj",
       "packagesPath": "C:\\Users\\jkrantz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\AdventOfCode2021\\obj\\",
+      "outputPath": "C:\\Users\\jkrantz\\Workspace\\Training\\AdventOfCode\\2021\\AdventOfCode2021\\Day1.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jkrantz\\AppData\\Roaming\\NuGet\\NuGet.Config",
